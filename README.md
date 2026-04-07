@@ -1,8 +1,6 @@
 # Phishing URL Detection 
-![image](<img width="759" height="434" alt="image" src="https://github.com/user-attachments/assets/d4218acb-1e21-4b8d-abbd-8dbce1b507bd" />
-)
-![image](<img width="718" height="320" alt="image" src="https://github.com/user-attachments/assets/90cbda4a-fbca-4ead-8675-311a6f7022d6" />
-)
+<img width="722" height="321" alt="image" src="https://github.com/user-attachments/assets/aedabad4-ec2f-483c-8d24-68b6c23a8f87" />
+<img width="755" height="427" alt="image1" src="https://github.com/user-attachments/assets/54c61b73-2b9c-4db8-b77c-92e58ae23daf" />
 
 ## Table of Content
   * [Introduction](#introduction)
